@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @WilliamZimmerman
-- 👀 I’m interested in Hardware for AI
-- 🌱 I’m currently learning at McGill University
-- 📫 How to reach me Will.s.zimmerman@gmail.com
+- 👋 Hi, I’m Will
+- 🌱 I’m currently a PhD Student at UWaterloo in Integrated Devices, Circuits and Systems
+
 
 <!---
 WilliamZimmerman/WilliamZimmerman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
